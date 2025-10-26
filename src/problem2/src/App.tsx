@@ -1,4 +1,4 @@
-import Navbar from "./components/ui/Navbar";
+import Navbar from "./components/ui/navbar";
 import { CurrencySwapForm } from "./features/currency-swap/components/currency-swap-form";
 
 function App() {
