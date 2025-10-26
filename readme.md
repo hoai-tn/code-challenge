@@ -31,7 +31,7 @@ This repository contains solutions to three programming challenges demonstrating
 
 **Location**: `src/problem2/`
 
-**Live Demo**: [View Application](https://hoai-tran-code-challenge-frontend.vercel.app/)
+**Application Screenshot**: ![Currency Swap Application](./src/problem2/public/screen-shot-app.png)
 
 **To Run**:
 ```bash
