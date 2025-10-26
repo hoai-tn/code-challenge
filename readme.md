@@ -31,6 +31,8 @@ This repository contains solutions to three programming challenges demonstrating
 
 **Location**: `src/problem2/`
 
+**Live Demo**: [View Application](https://hoai-tran-code-challenge-frontend.vercel.app/)
+
 **To Run**:
 ```bash
 cd src/problem2
